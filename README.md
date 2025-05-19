@@ -26,9 +26,11 @@ To view the project, simply open the `index.html` file in a web browser. You can
    Navigate to the project directory:
 
 cd cafe-menu-project
+
 Open index.html in your web browser.
 
-Usage
+Usage:
+
 Feel free to modify the content and styles in the HTML and CSS files to personalize the cafe menu further.
 
 License
